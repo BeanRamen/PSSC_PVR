@@ -1,0 +1,14 @@
+D:\downloads\ANUL 4\PSSC\LAB\lab1\lab1\bin\Debug\net8.0\lab1.exe
+D:\downloads\ANUL 4\PSSC\LAB\lab1\lab1\bin\Debug\net8.0\lab1.deps.json
+D:\downloads\ANUL 4\PSSC\LAB\lab1\lab1\bin\Debug\net8.0\lab1.runtimeconfig.json
+D:\downloads\ANUL 4\PSSC\LAB\lab1\lab1\bin\Debug\net8.0\lab1.dll
+D:\downloads\ANUL 4\PSSC\LAB\lab1\lab1\bin\Debug\net8.0\lab1.pdb
+D:\downloads\ANUL 4\PSSC\LAB\lab1\lab1\obj\Debug\net8.0\lab1.GeneratedMSBuildEditorConfig.editorconfig
+D:\downloads\ANUL 4\PSSC\LAB\lab1\lab1\obj\Debug\net8.0\lab1.AssemblyInfoInputs.cache
+D:\downloads\ANUL 4\PSSC\LAB\lab1\lab1\obj\Debug\net8.0\lab1.AssemblyInfo.cs
+D:\downloads\ANUL 4\PSSC\LAB\lab1\lab1\obj\Debug\net8.0\lab1.csproj.CoreCompileInputs.cache
+D:\downloads\ANUL 4\PSSC\LAB\lab1\lab1\obj\Debug\net8.0\lab1.dll
+D:\downloads\ANUL 4\PSSC\LAB\lab1\lab1\obj\Debug\net8.0\refint\lab1.dll
+D:\downloads\ANUL 4\PSSC\LAB\lab1\lab1\obj\Debug\net8.0\lab1.pdb
+D:\downloads\ANUL 4\PSSC\LAB\lab1\lab1\obj\Debug\net8.0\lab1.genruntimeconfig.cache
+D:\downloads\ANUL 4\PSSC\LAB\lab1\lab1\obj\Debug\net8.0\ref\lab1.dll

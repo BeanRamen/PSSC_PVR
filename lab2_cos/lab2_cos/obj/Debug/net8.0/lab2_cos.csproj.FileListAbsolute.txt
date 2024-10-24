@@ -1,0 +1,14 @@
+D:\downloads\ANUL 4\PSSC\LAB\lab2_cos\lab2_cos\bin\Debug\net8.0\lab2_cos.exe
+D:\downloads\ANUL 4\PSSC\LAB\lab2_cos\lab2_cos\bin\Debug\net8.0\lab2_cos.deps.json
+D:\downloads\ANUL 4\PSSC\LAB\lab2_cos\lab2_cos\bin\Debug\net8.0\lab2_cos.runtimeconfig.json
+D:\downloads\ANUL 4\PSSC\LAB\lab2_cos\lab2_cos\bin\Debug\net8.0\lab2_cos.dll
+D:\downloads\ANUL 4\PSSC\LAB\lab2_cos\lab2_cos\bin\Debug\net8.0\lab2_cos.pdb
+D:\downloads\ANUL 4\PSSC\LAB\lab2_cos\lab2_cos\obj\Debug\net8.0\lab2_cos.GeneratedMSBuildEditorConfig.editorconfig
+D:\downloads\ANUL 4\PSSC\LAB\lab2_cos\lab2_cos\obj\Debug\net8.0\lab2_cos.AssemblyInfoInputs.cache
+D:\downloads\ANUL 4\PSSC\LAB\lab2_cos\lab2_cos\obj\Debug\net8.0\lab2_cos.AssemblyInfo.cs
+D:\downloads\ANUL 4\PSSC\LAB\lab2_cos\lab2_cos\obj\Debug\net8.0\lab2_cos.csproj.CoreCompileInputs.cache
+D:\downloads\ANUL 4\PSSC\LAB\lab2_cos\lab2_cos\obj\Debug\net8.0\lab2_cos.dll
+D:\downloads\ANUL 4\PSSC\LAB\lab2_cos\lab2_cos\obj\Debug\net8.0\refint\lab2_cos.dll
+D:\downloads\ANUL 4\PSSC\LAB\lab2_cos\lab2_cos\obj\Debug\net8.0\lab2_cos.pdb
+D:\downloads\ANUL 4\PSSC\LAB\lab2_cos\lab2_cos\obj\Debug\net8.0\lab2_cos.genruntimeconfig.cache
+D:\downloads\ANUL 4\PSSC\LAB\lab2_cos\lab2_cos\obj\Debug\net8.0\ref\lab2_cos.dll

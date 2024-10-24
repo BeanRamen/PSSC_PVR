@@ -1,0 +1,16 @@
+D:\downloads\ANUL 4\PSSC\LAB\lab1_home\lab1_home\bin\Debug\net5.0\lab1_home.exe
+D:\downloads\ANUL 4\PSSC\LAB\lab1_home\lab1_home\bin\Debug\net5.0\lab1_home.deps.json
+D:\downloads\ANUL 4\PSSC\LAB\lab1_home\lab1_home\bin\Debug\net5.0\lab1_home.runtimeconfig.json
+D:\downloads\ANUL 4\PSSC\LAB\lab1_home\lab1_home\bin\Debug\net5.0\lab1_home.runtimeconfig.dev.json
+D:\downloads\ANUL 4\PSSC\LAB\lab1_home\lab1_home\bin\Debug\net5.0\lab1_home.dll
+D:\downloads\ANUL 4\PSSC\LAB\lab1_home\lab1_home\bin\Debug\net5.0\ref\lab1_home.dll
+D:\downloads\ANUL 4\PSSC\LAB\lab1_home\lab1_home\bin\Debug\net5.0\lab1_home.pdb
+D:\downloads\ANUL 4\PSSC\LAB\lab1_home\lab1_home\obj\Debug\net5.0\lab1_home.csproj.AssemblyReference.cache
+D:\downloads\ANUL 4\PSSC\LAB\lab1_home\lab1_home\obj\Debug\net5.0\lab1_home.GeneratedMSBuildEditorConfig.editorconfig
+D:\downloads\ANUL 4\PSSC\LAB\lab1_home\lab1_home\obj\Debug\net5.0\lab1_home.AssemblyInfoInputs.cache
+D:\downloads\ANUL 4\PSSC\LAB\lab1_home\lab1_home\obj\Debug\net5.0\lab1_home.AssemblyInfo.cs
+D:\downloads\ANUL 4\PSSC\LAB\lab1_home\lab1_home\obj\Debug\net5.0\lab1_home.csproj.CoreCompileInputs.cache
+D:\downloads\ANUL 4\PSSC\LAB\lab1_home\lab1_home\obj\Debug\net5.0\lab1_home.dll
+D:\downloads\ANUL 4\PSSC\LAB\lab1_home\lab1_home\obj\Debug\net5.0\ref\lab1_home.dll
+D:\downloads\ANUL 4\PSSC\LAB\lab1_home\lab1_home\obj\Debug\net5.0\lab1_home.pdb
+D:\downloads\ANUL 4\PSSC\LAB\lab1_home\lab1_home\obj\Debug\net5.0\lab1_home.genruntimeconfig.cache
